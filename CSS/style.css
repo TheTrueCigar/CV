@@ -1,0 +1,59 @@
+.box-img{
+  border-radius: 15%
+
+}
+
+.box h1{
+  font-size: 40;
+  letter-spacing: 2px;
+  font-weight: 100;
+  margin: 30px 0 20px;
+  font-weight: bold;
+}
+
+.box h2{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.box p{
+  text-align: justify;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+body{
+  background: url('IM/c.jpg') no-repeat;
+  background-size: cover;
+  font-family: 'Times new roman';
+}
+
+.box{
+  width: 500px;
+  background: rgba(0, 0, 0, 0.4);
+  margin: 0 auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 20px;
+  color: white;
+  border-radius: 20px;
+  text-align: center;
+}
+ul{
+  text-align: justify;
+  color:#b3cadd;
+}
+a{
+  color: #95a1e2;
+  margin:10px 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+a:hover{
+  font-size: 20px;
+}
